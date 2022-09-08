@@ -1,0 +1,19 @@
+
+.atas img {
+    margin-left: 20px;
+
+}
+
+.atas h1 {
+    font-family: 'Nunito';
+    text-align: center;
+}
+
+.nav-list ul {
+    display: inline;
+    margin: 5px;
+}
+
+.nav-list li {
+    align-self: center;
+}
